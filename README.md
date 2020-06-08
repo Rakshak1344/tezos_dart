@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 [![Github issues](https://img.shields.io/github/issues/Tezsure/tezos_dart)](https://github.com/Tezsure/tezos_dart/issues?q=is%3Aissue+is%3Aopen+)
 
+![Tezster banner](https://tezster.s3-ap-southeast-1.amazonaws.com/TEZSTER_CLI/1_jDB5enULQVo2UfeiwD32qA.png)
 A library for building decentralized applications in Flutter, currently focused on the Tezos platform. Tezos_dart package contains all the function that is required to build tezos application.
 
 ## What is Tezos
